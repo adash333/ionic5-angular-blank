@@ -1,4 +1,4 @@
-# ionic5-tabs
+# ionic5-angular-blank
 
 このページは、Ionic5アプリのデフォルトアプリ(blank)を、題名だけ変更して、Netlifyにデプロイしたものです。
 
